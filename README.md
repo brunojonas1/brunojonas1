@@ -6,8 +6,8 @@
 
 <div>
   <a href ="https://github.com/brunojonas1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunojonas1&show_icons=true&theme=dracula&include_all_commit=true&count"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojonas1&hide_progress=true&theme=dracula"&&layout=donut-vertical/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=brunojonas1&show_icons=true&theme=dracula&include_all_commit=true&count"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojonas1&hide_progress=true&theme=dracula"/>
 </div>
 
 <div>
