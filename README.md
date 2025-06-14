@@ -1,7 +1,10 @@
 ## <h1>Olá! Sou o Bruno</h1>
 
 <p>
-  Sou formado em Engenharia Química, e busco aprender sobre programação.
+🎓 Formado em Engenharia Química, com Mestrado em Ciências Farmacêuticas e atualmente graduando em Engenharia de Software. 
+
+💻 Apaixonado por tecnologia e aprendizado contínuo, estou em transição de carreira para a área de desenvolvimento de software. Tenho me dedicado ao estudo de linguagens de programação e boas práticas de engenharia de software, sempre buscando aplicar o conhecimento adquirido em projetos práticos.
+
 </p>
 
 <div>
